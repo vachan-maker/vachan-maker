@@ -21,3 +21,8 @@ You can click the Preview link to take a look at your changes.
 ![](https://listenbrainz-widget-readme.vercel.app/api)
 
 - _Yes i know how terrible this widget thingg looks. I am working on fixing it._
+## What I am Learning Right Now?
+- Just the stuff I am learning right now.
+- Does this mean I know everything? Of course not.
+
+[![roadmap.sh](https://roadmap.sh/card/wide/688ccf5c087fc9883fa18670?variant=dark&roadmaps=typescript%2Creact)](https://roadmap.sh)
